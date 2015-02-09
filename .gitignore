@@ -28,7 +28,7 @@
 *.app
 
 # java
-.class
-.jar
+*.class
+*.jar
 **/build
 **/bin
